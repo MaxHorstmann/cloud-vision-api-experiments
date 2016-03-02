@@ -12,7 +12,7 @@ Just trying out the new [Google Cloud Vision API](https://cloud.google.com/visio
 # output
 For this test image...
 
-![Punta Tombo](punta_tombo.jpg)
+![Punta Tombo](VisionApitest/punta_tombo.jpg)
 
 ... the API returns:
 
