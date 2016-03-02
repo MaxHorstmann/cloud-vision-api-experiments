@@ -1,2 +1,16 @@
 # cloud-vision-api-experiments
-Experimenting with the new Google Cloud Vision API
+Just trying out the new [Google Cloud Vision API](https://cloud.google.com/vision).
+
+# dependencies
+[Jil](https://www.nuget.org/packages/Jil)
+
+# setup
+* Open sln in Visual Studion 2015
+* Fill in API key
+* Run
+
+
+
+
+
+
