@@ -5,7 +5,7 @@ Just trying out the new [Google Cloud Vision API](https://cloud.google.com/visio
 [Jil](https://www.nuget.org/packages/Jil)
 
 # setup
-* Open sln in Visual Studion 2015
+* Open sln in Visual Studio 2015
 * Fill in API key
 * Run
 
